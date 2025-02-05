@@ -1,0 +1,34 @@
+.book:hover {
+    background-color: #87C90B;
+}
+.rightnav button:hover {
+    background-color: #87C90B;
+}
+.rightnav i:hover {
+    background-color: #87C90B;
+}
+.card1:hover {
+    background-color: #f29c86;
+}
+.card2:hover {
+    background-color: #9f91f1;
+}
+.card3:hover {
+    background-color: #f1d28b;
+}
+.card4:hover {
+    background-color: #4ecfc2;
+}
+.learnmore:hover{
+    background-color: #87C90B;
+}
+.submit:hover{
+    background-color: #87C90B;
+}
+.formright button:hover{
+    background-color: #87C90B;
+}
+.project button:hover{
+    background-color: #9C28B2;
+    color: #ffff;
+}

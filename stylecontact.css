@@ -1,0 +1,128 @@
+body{
+       height: 100%;
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        
+}
+
+.maincontent{
+    background-image: url("./img/breadcrumb-bg-1.jpeg");
+    padding: 5%;
+    width: 100%;   
+    
+}
+.maincontent h1{
+    color: #ffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 90px;
+}
+.maincontent p{
+    color: #ffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    margin-top: -40px;
+}
+.maincontactpage{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: auto;
+    padding: 10vh;
+    gap: 7%;
+   
+}
+.leftcontactpage{
+  border: 3px dotted #1c874b;
+  border-radius: 20px;
+  padding: 70px;
+background-color: #F8F6EF;
+}
+.leftcontactpage h1{
+    margin-bottom: 40px;
+}
+
+.rightcontactpage{
+    border: 3px dotted #1c874b;
+    border-radius: 20px;
+    padding: 70px;
+    background-color: #F8F6EF;
+}
+.officeaddress{
+    display: flex;
+    justify-content: stretch;
+   
+}
+.officeaddress img{
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    padding: 10px;
+}
+.address{
+    margin-top: -1px;
+    font-size: 25px;
+    font-weight: lighter;
+}
+.phonenumber{
+    display: flex;
+    justify-content: stretch;
+}
+.phonenumber img{
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    padding: 10px;
+}
+.number{
+    margin-top: -1px;
+    font-size: 25px;
+    font-weight: lighter;
+
+}
+.email{
+    display: flex;
+    justify-content: stretch;
+}
+.email img{
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    padding: 10px;
+}
+.emailid{
+    margin-top: -1px;
+    font-size: 25px;
+    font-weight: lighter;
+}
+iframe{
+    border-radius: 20px;
+   
+}
+.input{
+    margin-top: -10px;
+    padding: 15px;
+    width: 80%;
+}
+.messagetext{
+       width: 94%;
+        height: 100px;
+        border-radius: 10px;
+        border-style: none;
+        margin-top: 5%;
+        resize: none;
+        padding: 10px 10px 10px 20px;
+    
+}
+.submit{
+    background-color: #9C28B2;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border-style: none;
+    margin-top: 5%;
+    cursor: pointer;
+}
